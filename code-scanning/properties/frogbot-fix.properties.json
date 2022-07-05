@@ -3,8 +3,12 @@
     "description": "Frogbot scans your GitHub repository and automatically opens pull requests for upgrading vulnerable dependencies to a version with a fix. Frogbot uses JFrog Xray for the scanning.",
     "iconName": "frogbot-icon",
     "categories": [
-        "Go",
+        "Go Module",
         "Maven POM",
-        "NPM Config"
+        "NPM Config",
+        "Gradle",
+        "C#",
+        "Python",
+        "Code Scanning"
     ],
 }
