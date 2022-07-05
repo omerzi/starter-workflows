@@ -6,6 +6,9 @@
         "Go Module",
         "Maven POM",
         "NPM Config",
-        "Gradle"
+        "Gradle",
+        "C#",
+        "Python",
+        "Code Scanning"
     ]
 }
